@@ -1,0 +1,16 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.wpexplorer.com%2Fwp-content%2Fuploads%2Fwordpress-image-optimization-guide.jpg&imgrefurl=https%3A%2F%2Fwww.wpexplorer.com%2Foptimize-images-wordpress-guide%2F&tbnid=o2OpfmMjeBMQLM&vet=12ahUKEwj7kZGFzuvwAhVNG3IKHbgoDf0QMygiegUIARCeAg..i&docid=2PpvCgUdDlO9vM&w=1000&h=500&q=image&ved=2ahUKEwj7kZGFzuvwAhVNG3IKHbgoDf0QMygiegUIARCeAg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
